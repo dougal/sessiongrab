@@ -1,5 +1,9 @@
 http://stackoverflow.com/questions/6575975/can-you-pass-parameters-to-controllers-through-routes-rb-without-them-appearing-i/6576040#6576040
 
+http://sessiongrab.heroku.com/
+
+or:
+
 bundle install
 rails s
 
