@@ -1,0 +1,5 @@
+<p>params[:id] is <%= params[:id] %></p>
+
+<p>You can get here via <%= link_to "user page", user_path(params[:id]) %> or <%= link_to 'profile page', '/profile' %>.</p>
+
+<p><%= link_to 'Logout', session_path, :method => :delete %> and try a different user ID.</p>
